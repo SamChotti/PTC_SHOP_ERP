@@ -1,8 +1,6 @@
 # PTC_SHOP_ERP
 To Automate The Manual Efforst 
 
-# PTC_SHOP_ERP
-
 Freight and Sales Management Desktop App for PTC Shop
 
 ## Features
